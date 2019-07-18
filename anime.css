@@ -1,0 +1,54 @@
+.data{
+    font-family: 'Changa', sans-serif;
+    font-size: 24px;
+    color:white;
+    /* background-color: black;
+    background-image: linear-gradient(to right,#d9a7c7 , #fffcdc); */
+    padding: 10px;
+    text-align: center;
+}
+#trigger{
+    padding: 0px 20px;
+}
+#inp{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(176, 230, 247);
+    border-radius: 4px;
+}
+.inpu{
+    text-align: center;
+    
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, #000000 , #434343);
+}
+
+#pretextone{
+    text-align: center;
+    line-height: 100px;
+    font-size: 72px;
+    font-family: 'Fredoka One', cursive;
+}
+#pretexttwo{
+    text-align: center;
+    /* line-height: 100px; */
+    font-size: 24px;
+    font-family: 'Fredoka One', cursive;
+}
+
+body{
+    font-family: 'Changa', sans-serif;
+    font-size: 24px;
+    color:white;
+    background-color: black;
+    background-image: linear-gradient(to right, #000000 , #434343);
+    padding: 10px;
+}
+.search{
+    /* font-family: 'Changa', sans-serif; */
+    font-size: 16px;
+}
